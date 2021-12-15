@@ -12,9 +12,6 @@ openai.api_key = os.environ.get("openai.api_key")
 # user input
 query = str(input("input: "))
 
-# test case
-# query = "It looks like the deadline on the AI for accessibility grant has moved to January 12, 2022. I'm interested in working closely with at least one intern on pair programming to build a prototype that uses AI and/or match machine learning. For the internship position, we will be screen sharing for 1 to 2 hours a day. "
-
 # create summary 
 summary = functions.summarizer(query)
 

@@ -1,12 +1,8 @@
 # Helpmespeak
 
----
-
 **Help me speak** uses Python functions for summarizing and improving voice dictation input.
 
 ## Get started with OpenAI gpt-3
-
----
 
 OpenAI is a amazing tool with lot of features and ability available to a developer. Follow the official [documentation](https://beta.openai.com/docs/introduction) and play with it.
 
@@ -26,31 +22,55 @@ See few more **[example](https://beta.openai.com/docs/examples/summarization)** 
 
 ## Installation
 
----
-
 ### 1. Clone the repository from GitHub
 
 Choose your prefered way to clone, either:
-`git clone https://github.com/margaritahumanitarian/helpmespeak.git`
+
+```console
+git clone https://github.com/margaritahumanitarian/helpmespeak.git
+```
+
 or
-`git clone git@github.com:margaritahumanitarian/helpmespeak.git`
+
+```console
+git clone git@github.com:margaritahumanitarian/helpmespeak.git
+```
 
 Go to the cloned directory:
 
-` cd helpmespeak/`
+```console
+cd helpmespeak/
+```
 
 ### 2. Install OpenAI Python library
 
 To install the official Python bindings, run the following command:
-`pip install openai`
+
+```console
+pip install openai
+```
 
 ### 3. Setup .evn file
 
-create a `.env` file in the root directory of the project and paste the content of [`.env.example`]() in the newly created `.env` file.
+create a `.env` file in the root directory of the project and paste the content of [`.env.example`](https://github.com/margaritahumanitarian/helpmespeak/blob/main/.env.example) in the newly created `.env` file.
 Replace `YOUR_API_KEY` with your `openAI API`
 
 **Note:** You can get your Api Key from *https://beta.openai.com/account/api-keys*
 
 ## Usage
 
----
+Go to the cloned directory:
+
+` cd helpmespeak/`
+
+Run the `summarizer.py` file, with the following command:
+
+```console
+python summarizer.py
+```
+
+#### Output:
+
+Enter a sentence or paragraph in the input field,
+
+Running the script successfully will create a output file `summary.txt` in the root directory of the project.
