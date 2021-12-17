@@ -1,0 +1,22 @@
+###
+Voice dictation: Hi @ codemuncher code delete last word
+I am currently unable to use my hands to type without extreme pain. For the past couple months I couldn't get typing through voice dictation to work in discord. On December 4 famousfigures show me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on screen keyboard. Now I am finally able to communicate my ideas via chat instead of chewing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation STOPSEQUENCE
+
+Voice dictation with errors fixed: Hi @codemuncher
+I am currently unable to use my hands to type without extreme pain. For the past couple of months, I couldn't get typing through voice dictation to work in discord. On December 4, @famousfigures showed me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on-screen keyboard. Now I am finally able to communicate my ideas via chat instead of queueing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation.
+
+###
+Voice dictation: Our schedule for this week:
+8 AM to 9 AM parentheses 9:30 PM to 10:30 PM IST) sahil
+9 AM to 10 AM (10:30 PM to 11:30 PM IST) pop them ash
+5 PM to 6 PM (6:30 AM to 7:30 AM EST) Akash
+6 PM to 7 PM parenthesis 7:30 AM to 8:30 AM IST) actually Press enter to you
+
+Voice dictation with errors fixed: Our schedule for this week:
+8 AM to 9 AM (9:30 PM to 10:30 PM IST) sahil
+9 AM to 10 AM (10:30 PM to 11:30 PM IST) pop them ash
+5 PM to 6 PM (6:30 AM to 7:30 AM EST) Akash
+6 PM to 7 PM (7:30 AM to 8:30 AM IST) actually Press enter to you
+
+###
+Voice dictation: The first thing I noticed about the keyboard was that it was very thin and light. The keys are very small and close together. The keyboard was very easy to type on. The keys are not mechanical but they are very responsive. The keyboard is very loud

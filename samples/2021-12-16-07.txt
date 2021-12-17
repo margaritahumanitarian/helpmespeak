@@ -1,0 +1,4 @@
+###
+Voice dictation: we have manually tagged the latest commit in github as 2.0.1. I believe that setuptools_scm read that tag version number and decided to auto increment the next version to 2.0.2.dev0. Therefore we have to figure this out as our next task in order to do the release.
+
+Voice dictation without errors: we have manually tagged the latest commit in Github as 2.0.1. I believe that setuptools_scm read that tag version number and decided to auto increment the next version to 2.0.2.dev0. Therefore we have to figure this out as our next task in order to do the release.

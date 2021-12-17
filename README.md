@@ -4,7 +4,7 @@
 
 ## Get started with OpenAI gpt-3
 
-OpenAI is a amazing tool with lot of features and ability available to a developer. Follow the official [documentation](https://beta.openai.com/docs/introduction) and play with it.
+OpenAI is an amazing tool with a lot of features and abilities available to a developer. Follow the official [documentation](https://beta.openai.com/docs/introduction) and play with it.
 
 Here is an example of OpenAI gpt3
 
@@ -14,17 +14,17 @@ Here is an example of OpenAI gpt3
 > Jupiter is primarily composed of hydrogen with a quarter of its mass being helium, though helium comprises only about a tenth of the number of molecules. It may also have a rocky core of heavier elements,[21] but like the other giant planets, Jupiter lacks a well-defined solid surface. Because of its rapid rotation, the planet's shape is that of an oblate spheroid (it has a slight but noticeable bulge around the equator).
 > tl;dr:
 
-Response from the API : -
+Response from the API: -
 
 > Jupiter is the largest planet in the solar system. It is a gas giant, and is the fifth planet from the sun.
 
-See few more **[example](https://beta.openai.com/docs/examples/summarization)** for **OpenAI gpt3**.
+See a few more **[examples](https://beta.openai.com/docs/examples/summarization)** for **OpenAI gpt3**.
 
 ## Installation
 
 ### 1. Clone the repository from GitHub
 
-Choose your prefered way to clone, either:
+Choose your preferred way to clone, either:
 
 ```console
 git clone https://github.com/margaritahumanitarian/helpmespeak.git
@@ -52,10 +52,10 @@ pip install openai
 
 ### 3. Setup .evn file
 
-create a `.env` file in the root directory of the project and paste the content of [`.env.example`](https://github.com/margaritahumanitarian/helpmespeak/blob/main/.env.example) in the newly created `.env` file.
+create a `.env` file in the root directory of the project and paste the content of the [`.env.example`](https://github.com/margaritahumanitarian/helpmespeak/blob/main/.env.example) in the newly created `.env` file.
 Replace `YOUR_API_KEY` with your `openAI API`
 
-**Note:** You can get your Api Key from *https://beta.openai.com/account/api-keys*
+**Note:** You can get your API Key from *https://beta.openai.com/account/api-keys*
 
 ## Usage
 
@@ -73,4 +73,4 @@ python summarizer.py
 
 Enter a sentence or paragraph in the input field,
 
-Running the script successfully will create a output file `summary.txt` in the root directory of the project.
+Executing the script successfully will create an output file `summary.txt` in the root directory of the project.

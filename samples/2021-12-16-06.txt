@@ -1,0 +1,5 @@
+###
+Voice dictation: I have this idea to use summarization on any text that I enter through voice dictation. I think we could use the above example to summarize dictation. If anyone wants to try it out, or to help me run that example over screen share, that would be awesome. Press enter Press return 
+
+Voice dictation without errors: 
+I have the idea to use summarization on any text that I enter through voice dictation. I think we could use the above example to summarize dictation. If anyone wants to try it out or to help me run that example over screen share, that would be awesome.

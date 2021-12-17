@@ -20,7 +20,7 @@ def grammerCorrection(content):
         top_p=1,
         frequency_penalty=0,
         presence_penalty=0,
-        stop=["\n"]
+        stop=["###"]
     )
     return response.choices[0].text
 
@@ -120,4 +120,4 @@ def summarizer(query):
     r2 = modal_two(text)
     r3 = modal_three(text)
 
-    return [r1,r2,r3]
+    return [r1,r2,r3,text]

@@ -1,0 +1,52 @@
+When I use voice dictation to type, often the voice recognition software misinterprets what I actually want to type. These examples first show how my voice dictation was misinterpreted, and then how my voice dictation should have been interpreted correctly. 
+
+###
+Here is how the computer misinterpreted my voice dictation: I can imagine it must feel like this to have trouble communicating as a non-native English speaker. Where are you are not able to express your exact intent due to language barriers with your ability to speak written English over chat and email Send 
+
+Here is how my voice dictation should have been interpreted: I can imagine it must feel like this to have trouble communicating as a non-native English speaker. Where are you are not able to express your exact intent due to language barriers with your ability to speak written English over chat and email?
+
+###
+Here is how the computer misinterpreted my voice dictation: we have manually tagged the latest commit in github as 2.0.1. I believe that setuptools_scm read that tag version number and decided to auto increment the next version to 2.0.2.dev0. Therefore we have to figure this out as our next task in order to do the release.
+
+Here is how my voice dictation should have been interpreted: We have manually tagged the latest commit in GitHub as 2.0.1. I believe that setuptools_scm read that tagged version number and decided to auto-increment the next version to 2.0.2.dev0. Therefore we have to figure this out as our next task in order to do the release.
+
+###
+Here is how the computer misinterpreted my voice dictation: Hi everyone, last night sané showed me a little hack that turns on improved Voice control in discord. The result is:
+One. I can now type messages with my voice in discord, like this one. (sidenote colon it's hard to edit those messages when voice recognition makes mistakes, which means at this point my biggest need has shifted from being able to type anything to wanting improved Voice recognition of message intent Villa and I sia through artificial intelligence)
+Two. I have a greater control over the discord user interface see a number labels. I am now using quotation mark show Numbers continuously combined with the show keyboard hack that jump starts the number labels.
+Overall this represents 1000% improvement in my discord user experience and overall Quality of life. Thank you@famous figures Space so much. Truly grateful.
+
+Here is how my voice dictation should have been interpreted: Hi everyone, last night Sonny showed me a little hack that turns on improved voice control in Discord. The result is:
+1. I can now type messages using voice in Discord, like this one. (Sidenote: it's hard to edit those messages when voice recognition makes mistakes, which means at this point my biggest need has shifted from being able to type anything to wanting improved voice recognition of message intent via artificial intelligence)
+2. I have greater control over the Discord user interface by saying the number labels. I am now using "Show Numbers Continuously" combined with the "Show Keyboard" hack that jump-starts the number labels.
+Overall this represents a 1000% improvement in my Discord user experience and overall quality of life. Thank you @famousfigures so much. Truly grateful.
+
+###
+Here is how the computer misinterpreted my voice dictation: Hi @ codemuncher code delete last word
+I am currently unable to use my hands to type without extreme pain. For the past couple months I couldn't get typing through voice dictation to work in discord. On December 4 famousfigures show me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on screen keyboard. Now I am finally able to communicate my ideas via chat instead of chewing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation 
+
+Here is how my voice dictation should have been interpreted: Hi @codemuncher, I am currently unable to use my hands to type without extreme pain. For the past couple of months, I couldn't get typing through voice dictation to work in discord. On December 4, @famousfigures showed me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on-screen keyboard. Now I am finally able to communicate my ideas via chat instead of queueing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation.
+
+
+###
+Here is how the computer misinterpreted my voice dictation: Our schedule for this week:
+8 AM to 9 AM parentheses 9:30 PM to 10:30 PM IST) sahil
+9 AM to 10 AM (10:30 PM to 11:30 PM IST) pop them ash
+5 PM to 6 PM (6:30 AM to 7:30 AM EST) Akash
+6 PM to 7 PM parenthesis 7:30 AM to 8:30 AM IST) actually Press enter to you
+
+Here is how my voice dictation should have been interpreted: Our schedule for this week:
+8 AM to 9 AM (9:30 PM to 10:30 PM IST) Sahil
+9 AM to 10 AM (10:30 PM to 11:30 PM IST) Prathamesh
+5 PM to 6 PM (6:30 AM to 7:30 AM IST) Akash
+6 PM to 7 PM (7:30 AM to 8:30 AM IST) Akshit
+
+
+###
+Here is how the computer misinterpreted my voice dictation: Hey, pardon any errors as I am using voice dictation and it's extremely hard to make corrections. It's really good to hear from you Akira! Delete last word I tira
+
+I have work until 7 PM and then and I'm a trap phone call which may and MH a phone call and MHS phone call which may go Long. Tomorrow is a bit packed to but how about monday? 1 PM next Monday?
+
+I hope you're doing well too! Thinking of you
+
+Here is how my voice dictation should have been interpreted:
