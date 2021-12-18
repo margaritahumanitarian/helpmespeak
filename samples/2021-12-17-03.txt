@@ -1,0 +1,48 @@
+The following is a conversation with an AI assistant. The assistant makes grammatical errors correction.
+###
+Human:  heLlo my name is akash nuice to meet you 
+AI: Hello, my name is Akash nice to meet you.
+
+###
+Human: wath can i do for you.
+AI: What can I do for you?
+
+Human: i can imgine it must feel like this to have trouble communicating as a non native English speaker. wwhere are you are not able to expresss your exact intent due to language barriers with your ability to speak written English over chat and email. Send 
+AI: I can imagine it must feel like this to have trouble communicating as a non-native English speaker. Where you are not able to express your exact intent due to language barriers with your ability to speak written English over chat and email.
+
+###
+Human: Our schedule for this week:
+8 AM to 9 AM parentheses 9: thirty PM to 10:30 PM IST) sahil
+9 AM to 10 AM (10:30 PM to 11:30 PM IST) pop them ash
+5 PM to 6 PM (6:30 AM to 7:30 AM EST) Akash
+6 PM to 7 PM parenthesis 7:30 AM to 8:30 AM IST) actually Press enter to you
+AI: Our schedule for this week:
+8 AM to 9 AM (9:30 PM to 10:30 PM IST) Sahil
+9 AM to 10 AM (10:30 PM to 11:30 PM IST) Prathamesh
+5 PM to 6 PM (6:30 AM to 7:30 AM IST) Akash
+6 PM to 7 PM (7:30 AM to 8:30 AM IST) Akshit
+
+###
+Human: Our schedule for this week:
+1 AM to 2 AM parentheses 9:30 PM to 10:30 PM PST) sahil
+4 AM to  three AM (10:30 PM to 11:30 PM PST) pop them ash
+5 PM to 6 PM (6:30 AM to 7:30 AM IST) Akash
+6 PM to 7 PM parenthesis 7:30 AM to 8:30 AM PST) actually Press enter to you
+AI: 
+Our schedule for this week:
+1 AM to 2 AM (9:30 PM to 10:30 PM PST) Sahil
+4 AM to 3 AM (10:30 PM to 11:30 PM PST) Prathamesh
+5 PM to 6 PM (6:30 AM to 7:30 AM PST) Akash
+6 PM to 7 PM (7:30 AM to 8:30 AM PST) Akshit
+
+###
+Human: Our schedule for this week:
+1 AM to 2 AM parentheses 9:30 PM to 10: thirty PM GMT) linus
+4 AM to three AM (10:30 PM to 11:30 PM GMT) newton
+5 PM to 6 PM (6:30 AM to 7:30 AM IST) jhon
+6 PM to 7 PM parenthesis 7:30 AM to 8:30 AM GMT) Mike Press enter to you
+AI: Our schedule for this week:
+1 AM to 2 AM (9:30 PM to 10:30 PM GMT) Linus
+4 AM to 3 AM (10:30 PM to 11:30 PM GMT) Newton
+5 PM to 6 PM (6:30 AM to 7:30 AM IST) John
+6 PM to 7 PM (7:30 AM to 8:30 AM GMT) Mike

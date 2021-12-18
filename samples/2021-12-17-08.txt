@@ -1,0 +1,12 @@
+Writing assistant that reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes.
+Following is an example of result
+Original text:
+"""
+Hi everyone, last night sané showed me a little hack that turns on improved Voice control in discord. The result is:
+One. I can now type messages with my voice in discord, like this one. (sidenote colon it's hard to edit those messages when voice recognition makes mistakes, which means at this point my biggest need has shifted from being able to type anything to wanting improved Voice recognition of message intent Villa and I sia through artificial intelligence)
+Two. I have a greater control over the discord user interface see a number labels. I am now using quotation mark show Numbers continuously combined with the show keyboard hack that jump starts the number labels.
+Overall this represents 1000% improvement in my discord user experience and overall Quality of life. Thank you@famous figures Space so much. Truly grateful.
+
+"""
+Standard American English:
+"""

@@ -1,0 +1,53 @@
+Voice recognition technology has come a long way, but it is still very error-prone. Often what the person dictates does not match what the person actually wants to type. Here are some examples of text that were captured through voice recognition technology. You will notice that while they are pretty good, there are still many errors. Some errors are grammatical, and other errors are due to improper recognition. Often commands that are intended to be taken as regular commands are interpreted as dictation. For example, sometimes a user will speak the phrase "delete last word" and instead of the voice recognition software deleting the last word, the phrase "delete last word" will be typed verbatim.
+
+This first example shows you how the phrase "delete last word" was typed verbatim. It also shows how punctuation mark words such as “period” and “colon” were typed out as words instead of interpreted as the actual punctuation characters.
+
+###
+Hi@ codemuncher code delete last word
+I am currently unable to use my hands to type without extreme pain. For the past couple months I couldn't get typing through voice dictation to work in discord. On December 4 famousfigures show me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on screen keyboard. Now I am finally able to communicate my ideas via chat instead of chewing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation period
+###
+
+The above example should have been typed out by the dictation software as the following text:
+
+###
+Hi @codemuncher, I am currently unable to use my hands to type without extreme pain. For the past couple of months, I couldn't get typing through voice dictation to work in discord. On December 4, @famousfigures showed me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on-screen keyboard. Now I am finally able to communicate my ideas via chat instead of queueing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation.
+###
+
+This second example shows how numbered lists dictated through voice recognition software are often misinterpreted as the numerical words instead of the actual number characters. Additionally, it shows how voice recognition software accidentally capitalizes words whenever there is a pause in the dictation. When I am using voice recognition software to dictate text, I often pause to think. That doesn't mean that I wish to end this sentence and start a new one. Rather, it means I just need a moment to catch a breath, and then after taking that breath I wish to continue that sentence with a lowercase next word.
+
+###
+Hi everyone, last night@ sonny showed me a little hack that turns on improved Voice control in discord. The result is:
+One. I can now type messages with my voice in discord, like this one. (sidenote colon it's hard to edit those messages when voice Recognition makes mistakes, which means at this point my biggest need has shifted from being able to type anything to wanting improved Voice recognition of message intent Villa and I sia through artificial intelligence)
+Two. I have a greater control over the discord user interface see a number labels. I am now using quotation mark show Numbers continuously combined with the show keyboard hack that jump starts the number labels. Overall this represents 1000% improvement in my discord user experience and overall Quality of life. Thank you@ famousfigures Space so much. Truly grateful.
+###
+
+This third example demonstrates how a user of voice recognition software will sometimes repeat the misrecognized word, phrase, or abbreviation until it is recognized correctly. Sometimes, as in this situation here, the item that they are repeating never gets recognized correctly, and they give up and move on. Here, the abbreviation MHF kept getting misrecognized.
+
+###
+Hey pardon any errors as I am using voice dictation and it's extremely hard to make corrections. It's really good to hear from you Akira! I tira Delete last word 
+
+I have work until 7 PM and then and I'm a trap phone call which may and MH a phone call and MHS phone call which may go Long. Tomorrow is a bit packed to but how about monday? 1 PM next Monday?
+
+I hope you're doing well too! Thinking of you period
+###
+
+The third example should have been interpreted by the voice recognition software as the following text:
+
+###
+Hey, pardon any errors as I am using voice dictation and it's extremely hard to make corrections. It's really good to hear from you, Atira!
+
+I have work until 7 PM and then an MHF phone call which may and a MHF phone call and a MHF phone call which may go long. Tomorrow is a bit packed too, but how about Monday? 1 PM next Monday?
+I hope you're doing well too! Thinking of you.
+###
+
+Here is a fourth example of text that was originally dictated by a user and then interpreted as text by voice recognition software:
+
+###
+Hi akash, I realize that it is almost 6 PM Pacific time which means that it is almost 7 AM 7:30 AM India standard time. What this means is that in a few minutes I will be switching over to working with actually on fell droid outcome. I know the time went by fast, and we didn't get a chance to review and work on your résumé and LinkedIn profile yet. Perhaps we can work on those together some other time. I'm getting pretty tired so after my session with actually I will call it a night and go have dinner with my husband and daughter. But I will be available either before your exams or after your exams, which ever Time you prefer. Thank you so much for all of your help with this AI force recognition project period delete last word
+###
+
+The fourth example should have been interpreted by the voice recognition software as the following text:
+
+###
+Hi, Akash, I realize that it is almost 6 PM Pacific time which means that it is almost 7 AM 7:30 AM India standard time. What this means is that in a few minutes I will be switching over to working with actually on fell droid outcome. I know the time went by fast, and we didn't get a chance to review and work on your résumé and LinkedIn profile yet. Perhaps we can work on those together some other time. I'm getting pretty tired so after my session with actually I will call it a night and go have dinner with my husband and daughter. But I will be available either before your exams or after your exams, which ever time you prefer. Thank you so much for all of your help with this AI force recognition project.
+

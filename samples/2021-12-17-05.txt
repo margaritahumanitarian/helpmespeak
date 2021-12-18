@@ -1,0 +1,46 @@
+My student asked me to check for the grammatical errors of the following voice recognition message.
+Message:
+"""
+Hi@ codemuncher code delete last word
+I am currently unable to use my hands to type without extreme pain. For the past couple months I couldn't get typing through voice dictation to work in discord. On December 4 famousfigures show me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on screen keyboard. Now I am finally able to communicate my ideas via chat instead of chewing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation period
+This is an example. hey Delete last word
+This is a sample colon hey this is example for fixing the inside quotes colon period
+"""
+I corrected the grammar for him, and removed common errors like "Send", "Press enter", "Period", "Delete last word", "Space","colon","inside quotes".
+Message without error:
+"""
+Hi @codemuncher
+I am currently unable to use my hands to type without extreme pain. For the past couple of months, I couldn't get typing through voice dictation to work in discord. On December 4, @famousfigures showed me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on-screen keyboard. Now I am finally able to communicate my ideas via chat instead of queueing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation.
+This is an example.
+This is a sample: hey this is an example for fixing the "colon".
+"""
+Message:
+"""
+Hi everyone, last night sané showed me a little hack that turns on improved Voice control in discord. The result is:
+One. I can now type messages with my voice in discord, like this one. (sidenote colon it's hard to edit those messages when voice recognition makes mistakes, which means at this point my biggest need has shifted from being able to type anything to wanting improved Voice recognition of message intent Villa and I sia through artificial intelligence)
+Two. I have a greater control over the discord user interface see a number labels. I am now using quotation mark show Numbers continuously combined with the show keyboard hack that jump starts the number labels. Overall this represents 1000% improvement in my discord user experience and overall Quality of life. Thank you@ famousfigures Space so much. Truly grateful.
+"""
+Message without errors:
+"""
+Hi everyone, last night @sané showed me a little hack that turns on improved Voice control in discord. The result is:
+One. I can now type messages with my voice in discord, like this one. (sidenote: it's hard to edit those messages when voice recognition makes mistakes, which means at this point my biggest need has shifted from being able to type anything to wanting improved voice recognition of message via an artificial intelligence)
+Two. I have greater control over the discord user interface see a number of labels. I am now using quotation marks to show Numbers continuously combined with the show keyboard hack that jump-starts the number labels. Overall this represents a 1000% improvement in my discord user experience and overall Quality of life. Thank you @famousfigures Space so much. Truly grateful.
+"""
+Message:
+"""
+Here is how the computer misinterpreted my voice dictation: Hey, pardon any errors as I am using voice dictation and it's extremely hard to make corrections. It's really good to hear from you Akira! I tira Delete last word 
+
+I have work until 7 PM and then and I'm a trap phone call which may and MH a phone call and MHS phone call which may go Long. Tomorrow is a bit packed to but how about monday? 1 PM next Monday?
+
+I hope you're doing well too! Thinking of you
+"""
+Message without errors:
+"""
+Here is how the computer misinterpreted my voice dictation:
+Hey, pardon any errors as I am using voice dictation and it's extremely hard to make corrections.
+Thanks for reaching out!
+
+I have work until 7 PM and then and I'm a trap phone call which may and MH a phone call and MHS phone call which may go Long. Tomorrow is a bit packed too but how about Monday? 1 PM next Monday?
+I hope you're doing well too! Thinking of you
+"""
+Message:
