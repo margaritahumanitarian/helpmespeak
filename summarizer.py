@@ -10,21 +10,24 @@ load_dotenv(find_dotenv())
 openai.api_key = os.environ.get("openai.api_key")
 
 # user input
-# query = str(input("input: "))
+query = str(input("Input: "))
 
 #test case
-query = "It looks like the deadline on the AI for accessibility grant has moved to January 12, 2022. I'm interested in working closely with at least one intern on pair programming to build a prototype that uses AI and/or match machine learning. For the internship position, we will be screen sharing for 1 to 2 hours a day."
+# query = """
+# Hi@ codemuncher I am currently unable to use my hands to type without extreme pain. For the past couple months I couldn't get typing through voice dictation to work in discord. On December 4 famousfigures show me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on screen keyboard. Now I am finally able to communicate my ideas via chat instead of chewing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation period"""
 
 # create summary 
-summary = functions.summarizer(query)
+string = functions.summarizer(query)
+
 
 # output
-fobj = open("summary.txt","w")
-
-fobj.write(f"Original Text:\n{query}\n")
+fobj = open("summary.txt","a")
+fobj.write("\n###\n")
+fobj.write(f"User text with speech-to-text errors: {query}\n")
 # fobj.write(f'\n-[] First Summary:\n {summary[0]} \n ')
 # fobj.write(f'\n-[] Second Summary:\n {summary[1]} \n ')
 # fobj.write(f'\n-[] Third Summary:\n {summary[2]} \n ')
-fobj.write(f'\n-[] Better English:\n {summary[3]} \n ')
+# fobj.write(f'\n-[] American English:\n {summary[0]} \n ')
+fobj.write(f'\n###\nUser text without speech-to-text errors: {string}')
 
 fobj.close()

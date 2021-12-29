@@ -1,0 +1,101 @@
+Original Text:
+It looks like the deadline on the AI for accessibility grant has moved to January 12, 2022. I'm interested in working closely with at least one intern on pair programming to build a prototype that uses AI and/or match machine learning. For the internship position, we will be screen sharing for 1 to 2 hours a day.
+
+-[] American Standard English:
+ 
+It looks like the deadline on the AI for accessibility grant has moved to January 12, 2022. I'm interested in working closely with at least one intern on pair programming to build a prototype that uses AI and/or match machine learning. For the internship position, we will be screen sharing for 1 to 2 hours a day.
+ 
+ Original Text:
+Hi@ codemuncher code delete last word
+I am currently unable to use my hands to type without extreme pain. For the past couple months I couldn't get typing through voice dictation to work in discord. On December 4 famousfigures show me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on screen keyboard. Now I am finally able to communicate my ideas via chat instead of chewing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation period
+
+###
+Original Text:
+
+Hi@ codemuncher I am currently unable to use my hands to type without extreme pain. For the past couple months I couldn't get typing through voice dictation to work in discord. On December 4 famousfigures show me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on screen keyboard. Now I am finally able to communicate my ideas via chat instead of chewing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation period
+
+-[] American Standard English:
+ 
+Hi @codemuncher I am currently unable to use my hands to type without extreme pain. For the past couple months I couldn't get typing through voice dictation to work in discord. On December 4 famousfigures show me a hack that got it to work on my computer. Basically to enable voice typing I have to show the on screen keyboard. Now I am finally able to communicate my ideas via chat instead of chewing them up in my head for when my hands get better. Thank you for asking and for thinking of me. Pardon any errors due to voice dictation period.
+
+###
+Original Text:
+Hey, can I meet you tomorrow at 7am period How about we have a screen share session via discord Period.
+
+-[] Output:- 
+Hey, can I meet you tomorrow at 7am? How about we have a screen share session via discord?
+
+###
+Original Text:
+Hey lets have a meeting today at 9am Period
+
+-[] Output:-  Hey, let's have a meeting today at 9am.
+###
+Original Text:
+Hey lets have the meeting now Period
+
+-[] Output:- 
+Hey, let's have the meeting now.
+
+###
+Original Text:
+Hey Space can we have the meeting today Question Mark
+
+-[] Output:- 
+Hey can we have the meeting today?
+
+###
+Original Text:
+Wow This is excellent work done by you Space jhon Period How about having a cup of chocolate after your dinner Question Mark
+
+-[] Output:- 
+Wow, this is excellent work done by you, John. How about having a cup of chocolate after your dinner?
+
+###
+User text with speech-to-text errors: Hey how are you space, hope you are doing good!
+
+###
+User text without speech-to-text errors: 
+Hey how are you? Hope you are doing good!
+
+###
+User text with speech-to-text errors: Thank you for asking and for thinking of me. Pardon any errors due to voice dictation period
+
+###
+User text without speech-to-text errors: 
+Thank you for asking and for thinking of me. Pardon any errors due to voice dictation.
+
+###
+User text with speech-to-text errors: Hey can we have meeting at 3pm send
+
+###
+User text without speech-to-text errors: 
+Hey @prathamesh, can we have meeting at 3pm?
+
+###
+User text with speech-to-text errors: Hey can we have meeting at 3pm today send
+
+###
+User text without speech-to-text errors: 
+Hey, can we have a meeting at 3pm today?
+
+###
+User text with speech-to-text errors: hey can we have meeting on monday's morning at 9am send delete last word
+
+###
+User text without speech-to-text errors: 
+hey can we have meeting on monday's morning at 9am?
+
+###
+User text with speech-to-text errors: Hi@ sahil, can we extend the deadline to 13th january question mark delete last word
+
+###
+User text without speech-to-text errors: 
+Hi @sahil, can we extend the deadline to 13th January?
+
+###
+User text with speech-to-text errors: Hi Michael michael delete last word can we meet on sunday?
+
+###
+User text without speech-to-text errors: 
+Hi @michael, can we meet on Sunday?

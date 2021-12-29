@@ -1,0 +1,7 @@
+parenthesis_eg = """\nUser text with speech-to-text errors: Each year The Economist picks country of the Year period the award goes not to the biggest, the richest or the happiest, but to the one that in our view improved the most in 2021 period Uzbekistan parenthesis for abolishing slavery parenthesis Columbia (for making peace parenthesis and Tunisia parenthesis for embracing democracy parenthesis period
+###
+User text without speech-to-text errors: Each year The Economist picks country of the Year. The award goes not to the biggest, the richest or the happiest, but to the one that in our view improved the most in 2021. Uzbekistan (for abolishing slavery, Columbia (for making peace) and Tunisia (for embracing democracy).
+###
+User text with speech-to-text errors: The negative real return on bonds and cash help investors in to risk your assets, such as shares and private-market vehicles comma including buy-out, direct lending and venture capital parenthesis see finance and economics session) period
+###
+User text with speech-to-text errors: The negative real return on bonds and cash help investors in to risk your assets, such as shares and private-market vehicles, including buy-out, direct lending and venture capital (see finance and economics session)."""
