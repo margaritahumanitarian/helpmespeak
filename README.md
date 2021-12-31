@@ -12,7 +12,7 @@ Here is an example of OpenAI gpt3
 
 > Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass one-thousandth that of the Sun, but two-and-a-half times that of all the other planets in the Solar System combined. Jupiter is one of the brightest objects visible to the naked eye in the night sky, and has been known to ancient civilizations since before recorded history. It is named after the Roman god Jupiter.[19] When viewed from Earth, Jupiter can be bright enough for its reflected light to cast visible shadows,[20] and is on average the third-brightest natural object in the night sky after the Moon and Venus.
 > Jupiter is primarily composed of hydrogen with a quarter of its mass being helium, though helium comprises only about a tenth of the number of molecules. It may also have a rocky core of heavier elements,[21] but like the other giant planets, Jupiter lacks a well-defined solid surface. Because of its rapid rotation, the planet's shape is that of an oblate spheroid (it has a slight but noticeable bulge around the equator).
-> tl;dr:
+> **tl;dr:**
 
 Response from the API: -
 
@@ -50,10 +50,11 @@ To install the official Python bindings, run the following command:
 pip install openai
 ```
 
-### 3. Setup .evn file
-
-create a `.env` file in the root directory of the project and paste the content of the [`.env.example`](https://github.com/margaritahumanitarian/helpmespeak/blob/main/.env.example) in the newly created `.env` file.
-Replace `YOUR_API_KEY` with your `openAI API`
+### 3. Setup .env file
+To setup the env file, follow these steps:-
+1. Create a `.env` file in the root directory of the project 
+2. Paste the content of the [`.env.example`](https://github.com/margaritahumanitarian/helpmespeak/blob/main/.env.example) in the newly created `.env` file.
+3. Replace `YOUR_API_KEY` with your `openAI API`
 
 **Note:** You can get your API Key from *https://beta.openai.com/account/api-keys*
 
@@ -71,6 +72,5 @@ python summarizer.py
 
 #### Output:
 
-Enter a sentence or paragraph in the input field,
-
-Executing the script successfully will create an output file `summary.txt` in the root directory of the project.
+Enter a sentence or paragraph in the input field.
+Executing the script successfully will create an output file [summary.txt](https://github.com/margaritahumanitarian/helpmespeak/blob/main/summary.txt) in the root directory of the project.
