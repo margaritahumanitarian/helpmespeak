@@ -1,0 +1,53 @@
+Voice recognition technology has come a long way, but it is still very error-prone. Often what the person dictates does not match what the person actually wants to type.
+A few examples for removing the unnecessary word from the user's text are:
+User text with speech-to-text errors: So can you really make Asteroid mining possible Space at this time?
+###
+User text without speech-to-text errors: So can you really make Asteroid mining possible at this point?
+###
+User text with speech-to-text errors: Thank you@famousfigures Space so much. Truly grateful.
+###
+User text without speech-to-text errors: Thank you @famousfigures 
+so much. Truly grateful.
+User text with speech-to-text errors: She didn't go to the market Period
+###
+User text without speech-to-text errors: She didn't go to the market.
+###
+User text with speech-to-text errors: Thank you for asking and for thinking of me period Pardon any errors due to voice dictation period
+###
+User text without speech-to-text errors: Thank you for asking and for thinking of me. Pardon any errors due to voice dictation.###
+User text with speech-to-text errors: Hi@ codemuncher code delete last word I am currently unable to use my hands to type without extreme pain.
+###
+User text without speech-to-text errors: Hi @codemuncher, I am currently unable to use my hands to type without extreme pain.
+###
+User text with speech-to-text errors: Big test lie ahead  betrayed  delete last word period it is easy to forget the cell delete last word sell- offs period in 1998 -99 as the dotcom bubble  inflated . like was the coming months may witness market declines that seem to signal disaster   comma only for Revival to boost prices to even more worrying Levels . 
+###
+User text without speech-to-text errors: Big test lie ahead. It is easy to forget the sell-offs. In 1998-99 as the dotcom bubble  inflated. Like was the coming months may witness market declines that seem to signal disaster, only for revival to boost prices to even more worrying levels.
+User text with speech-to-text errors: Tip colon if you cant see the microphone symbol on your keyboard, you may be using an app keyboard instead of the default period
+###
+User text without speech-to-text errors: Tip: If you cant see the microphone symbol on your keyboard, you may be using an app keyboard instead of the default.
+###
+User text with speech-to-text errors: Tip colon tapping the green microphone button in the middle will pause the listening period
+###
+User text without speech-to-text errors: Tip: Tapping the green microphone button in the middle will pause the listening.###
+User text with speech-to-text errors: I can imagine it must feel like this to have trouble communicating as a non-native English speaker. Where are you are not able to express your exact intent due to language barriers with your ability to speak written English over chat and email. Send 
+###
+User text without speech-to-text errors: I can imagine it must feel like this to have trouble communicating as a non-native English speaker. Where are you are not able to express your exact intent due to language barriers with your ability to speak written English over chat and email?
+###
+User text with speech-to-text errors: Hi john , I will be online tomorrow for a full day okay? Send
+###
+User text without speech-to-text errors: Hi John, I will be online tomorrow for a full day okay?
+###
+User text with speech-to-text errors: Good morning, I am not sure if there are people coming in the meeting, these days are little quite. Send
+###
+User text without speech-to-text errors: Good morning, I am not sure if there are people coming in the meeting, these days are little quite.
+User text with speech-to-text errors: Each year The Economist picks country of the Year period the award goes not to the biggest, the richest or the happiest, but to the one that in our view improved the most in 2021 period Uzbekistan parenthesis for abolishing slavery parenthesis Columbia (for making peace parenthesis and Tunisia parenthesis for embracing democracy parenthesis period
+###
+User text without speech-to-text errors: Each year The Economist picks country of the Year. The award goes not to the biggest, the richest or the happiest, but to the one that in our view improved the most in 2021. Uzbekistan (for abolishing slavery, Columbia (for making peace) and Tunisia (for embracing democracy).
+###
+User text with speech-to-text errors: The negative real return on bonds and cash help investors in to risk your assets, such as shares and private-market vehicles comma including buy-out, direct lending and venture capital parenthesis see finance and economics session) period
+###
+User text with speech-to-text errors: The negative real return on bonds and cash help investors in to risk your assets, such as shares and private-market vehicles, including buy-out, direct lending and venture capital (see finance and economics session).
+###
+User text with speech-to-text errors: Hi sahil lets schedule the meeting on monday.
+###
+User text without speech-to-text errors: 

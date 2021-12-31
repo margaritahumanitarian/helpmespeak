@@ -8,6 +8,8 @@ grader = '\nI rephrased this for my daughter, in plain language a second grader 
 verbatim_fix = """\nVoice recognition technology has come a long way, but it is still very error-prone. Often what the person dictates does not match what the person actually wants to type.
 A few examples for removing the unnecessary word from the user's text are:"""
 
+grammar_fix = """\nVoice recognition technology are very error-prone to English grammar. Here are few examples of some common grammatical mistakes in the user's text."""
+
 promptStart = """\n###\nUser text with speech-to-text errors: """
 
 promptEnd = """\n###\nUser text without speech-to-text errors: """

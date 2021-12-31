@@ -99,3 +99,82 @@ User text with speech-to-text errors: Hi Michael michael delete last word can we
 ###
 User text without speech-to-text errors: 
 Hi @michael, can we meet on Sunday?
+
+###
+User text with speech-to-text errors: Hi sahil lets sechdule the meeting on monday.
+
+###
+User text without speech-to-text errors: 
+Hi Sahil, let's schedule the meeting on Monday.
+
+###
+User text with speech-to-text errors: 
+Hi akash, I realize that it is almost 6 PM Pacific time which means that it is almost 7 AM 7:30 AM India standard time. What this means is that in a few minutes I will be switching over to working with actually on fell droid outcome. I know the time went by fast, and we didn't get a chance to review and work on your résumé and LinkedIn profile yet. Perhaps we can work on those together some other time. I'm getting pretty tired so after my session with actually I will call it a night and go have dinner with my husband and daughter. But I will be available either before your exams or after your exams, which ever Time you prefer. Thank you so much for all of your help with this AI force recognition project.
+
+###
+User text without speech-to-text errors: 
+Hi Akash, I realize that it is almost 6 PM Pacific time which means that it is almost 7 AM 7:30 AM India standard time. What this means is that in a few minutes I will be switching over to working with actually on fell droid outcome. I know the time went by fast, and we didn't get a chance to review and work on your résumé and LinkedIn profile yet. Perhaps we can work on those together some other time. I'm getting pretty tired so after my session with actually I will call it a night and go have dinner with my husband and daughter. But I will be available either before your exams or after your exams, which ever Time you prefer. Thank you so much for all of your help with this AI force recognition project.
+
+###
+User text with speech-to-text errors: this is a example that I can give give delete last word you. And also note the tip I gave you earlier
+
+###
+User text without speech-to-text errors: 
+###
+User text with speech-to-text errors: this is a example that I can give give delete last word you. And also note the tip I gave you earlier 
+
+###
+User text without speech-to-text errors: 
+this is a example that I can give you. And also note the tip I gave you earlier.
+
+###
+User text with speech-to-text errors: this is a example that I can give give delete last word you. And also note the tip I gave you earlier Note colon you should not search the queries from google'
+
+###
+User text without speech-to-text errors: this is a example that I can give you. And also note the tip I gave you earlier. Note: You should not search the queries from google.
+
+###
+User text with speech-to-text errors: SO lets have a talk parenthesis via discord parenthesis on carrer development!
+
+###
+User text without speech-to-text errors: SO lets have a talk (via discord) on carrer development!
+
+###
+User text with speech-to-text errors: can we have a cup of tee send
+
+###
+User text without speech-to-text errors: can we have a cup of tea?
+
+###
+User text with speech-to-text errors: 
+so this is an example to show you what response can we get from the openai api API. what we will need To do is Just send a Message to Discord
+
+###
+User text without speech-to-text errors: 
+So this is an example to show you what response can we get from the OpenAI API. What we will need to do is just send a message to Discord.
+
+###
+User text with speech-to-text errors: hello akash can you help me me with the frontend part? I think my frontend is really weak so I need your help
+
+###
+User text without speech-to-text errors: 
+Hello Akash, can you help me with the frontend part? I think my frontend is really weak so I need your help.
+
+###
+User text with speech-to-text errors: hello akash can you help me me with the frontend part? I think my frontend is really weak so I need your help . can we connect wia discord or slack hubble tomorrow at 9am Ist
+
+###
+User text without speech-to-text errors: 
+Hello Akash, can you help me with the frontend part? I think my frontend is really weak so I need your help. Can we connect via Discord or Slack Hubble tomorrow at 9am IST?
+
+###
+User text with speech-to-text errors: some great example of the prototype we are making are Flowrite and Serenade serenade. Send
+
+###
+User text without speech-to-text errors: Some great examples of the prototype we are making are Flowrite and Serenade. Serenade to.
+
+###
+User text with speech-to-text errors: some great example of the prototype we are making are Flowrite and Serenade serenade. Send
+
+###
+User text without speech-to-text errors: Some great examples of the prototype we are making are Flowrite and Serenade.
